@@ -1,2 +1,3 @@
-# competitive-coding
-All the competitive coding files goes here.
+# Data Stuctures
+
+Data structures notes
