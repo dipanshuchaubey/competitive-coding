@@ -1,6 +1,6 @@
 ## Pseudocode
 
-###MERGE-SORT(A, p, r)
+### MERGE-SORT(A, p, r)
 
 ```bash
 if p < r
@@ -13,7 +13,7 @@ if p < r
 
 ```
 
-###MERGE (A, p, q, r)
+### MERGE (A, p, q, r)
 
 ```bash
 
